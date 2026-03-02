@@ -9,13 +9,6 @@
     "color": "#3B3738",
     "theme": "dark"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/denoland/vscode_deno"
-  },
-  "bugs": {
-    "url": "https://github.com/denoland/vscode_deno/issues"
-  },
   "engines": {
     "vscode": "^1.41.0"
   },
